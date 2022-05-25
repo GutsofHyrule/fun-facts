@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GutsofHyrule/fun-facts.git%20update/static/css/main.d4f6b5c2.css",
+    "main.js": "/GutsofHyrule/fun-facts.git%20update/static/js/main.299f430d.js",
+    "static/js/787.0daba8d2.chunk.js": "/GutsofHyrule/fun-facts.git%20update/static/js/787.0daba8d2.chunk.js",
+    "static/media/mmmap.jpg": "/GutsofHyrule/fun-facts.git%20update/static/media/mmmap.45e464e8cbff62b0b8dc.jpg",
+    "static/media/Zelda-Triforce.jpg": "/GutsofHyrule/fun-facts.git%20update/static/media/Zelda-Triforce.17e8e2ebb523f79bac71.jpg",
+    "static/media/zeldalink.jpg": "/GutsofHyrule/fun-facts.git%20update/static/media/zeldalink.3b14d88448604ee22c4c.jpg",
+    "static/media/triforcedribbble.png": "/GutsofHyrule/fun-facts.git%20update/static/media/triforcedribbble.8524f0eb18f8e651abc2.png",
+    "static/media/Zelda.png": "/GutsofHyrule/fun-facts.git%20update/static/media/Zelda.df6ec4e7e9cce05ec63e.png",
+    "index.html": "/GutsofHyrule/fun-facts.git%20update/index.html",
+    "main.d4f6b5c2.css.map": "/GutsofHyrule/fun-facts.git%20update/static/css/main.d4f6b5c2.css.map",
+    "main.299f430d.js.map": "/GutsofHyrule/fun-facts.git%20update/static/js/main.299f430d.js.map",
+    "787.0daba8d2.chunk.js.map": "/GutsofHyrule/fun-facts.git%20update/static/js/787.0daba8d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4f6b5c2.css",
+    "static/js/main.299f430d.js"
+  ]
+}
